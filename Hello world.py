@@ -1,0 +1,22 @@
+n=input()
+if eval(n)>0 :
+    print("He")
+    print("ll")
+    print("o ")
+    print("Wo")
+    print("rl")
+    print("d")
+elif eval(n)<0 :
+    print("H")
+    print("e")
+    print("l")
+    print("l")
+    print("o")
+    print(" ")
+    print("W")
+    print("o")
+    print("r")
+    print("l")
+    print("d")
+else :
+    print("Hello World")
